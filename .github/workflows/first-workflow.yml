@@ -1,4 +1,4 @@
-name: My first workflow
+name: Print hello world and say good bye
 on: workflow_dispatch
 jobs:
   say-hello-world:
